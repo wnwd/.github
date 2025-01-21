@@ -1,7 +1,7 @@
 # Welcome to WNWD!
 
 
-![Banner Image](https://wnwd.github.io/img/banner.jpeg)
+![Banner Image](https://wnwd.github.io/img/banner.png)
 
 ## About Us
 
